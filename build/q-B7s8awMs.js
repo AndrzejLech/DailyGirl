@@ -1,0 +1,1 @@
+import{u as t}from"./q-CWKV0IAH.js";import{d as f}from"./q-CWKV0IAH.js";const c=()=>{const[s,l]=t(),e=s.value;if(!e)return;const o=Array.from(e.files||[]);console.log("Selected Files: ",o),l(o)};export{f as _hW,c as s_WEB9kLlEFII};

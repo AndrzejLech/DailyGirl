@@ -1,0 +1,1 @@
+import{u as t}from"./q-CWKV0IAH.js";import{d as p}from"./q-CWKV0IAH.js";const c=e=>{const[o,m,s,i]=t();console.log(e.key),e.key=="Enter"&&o(),e.key=="Escape"&&(m.value=i.comment.message,s.value=!1)};export{p as _hW,c as s_2ImKwE7um1I};

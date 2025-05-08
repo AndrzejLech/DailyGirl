@@ -1,0 +1,1 @@
+import{u as l,n as i}from"./q-CWKV0IAH.js";import{d as t}from"./q-CWKV0IAH.js";const c=()=>{var e;const[o,a,s]=l();a.value=[],o.value=i([]),(e=s.dialogRef.value)==null||e.close()};export{t as _hW,c as s_IyNSSf30Xc4};

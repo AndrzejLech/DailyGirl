@@ -1,0 +1,1 @@
+import{u as r,n as i}from"./q-CWKV0IAH.js";import{d as c}from"./q-CWKV0IAH.js";const m=async a=>{const[e,s,l,n]=r();s.value=[...s.value,...a.map(o=>({name:o.name,size:o.size,progress:l,isCompleted:n}))],e.value=i([...e.value??[],...a]),console.log("handled Files: ",e.value)};export{c as _hW,m as s_6HE1NFizC8k};

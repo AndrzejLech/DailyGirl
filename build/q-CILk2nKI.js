@@ -1,0 +1,1 @@
+import{u}from"./q-CWKV0IAH.js";import{d as v}from"./q-CWKV0IAH.js";const o=a=>{const[t]=u(),e=a.target;parseInt(e.value)>366&&(e.value="366"),e.value.length>3&&(e.value=e.value.slice(0,3)),t.value=Number(e.value)};export{v as _hW,o as s_vO0CMqkZ2oU};

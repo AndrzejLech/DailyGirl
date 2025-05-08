@@ -1,0 +1,1 @@
+import{u as a}from"./q-CWKV0IAH.js";import{d as c}from"./q-CWKV0IAH.js";const r=()=>{var o;const[e]=a();e.targetImage.value=e.image,(o=e.sendDialogRef.value)==null||o.showModal()};export{c as _hW,r as s_nGdb1DdkfcQ};

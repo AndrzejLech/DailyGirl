@@ -1,0 +1,1 @@
+import{_}from"./q-uemlvruI.js";const t=()=>_(()=>import("./q-gOZ20pJp.js"),[]),r=[["/",[t,()=>_(()=>import("./q-C6UaaPdV.js"),[])]],["feed/",[t,()=>_(()=>import("./q-BEWS_TQ0.js"),[])]],["manager/",[t,()=>_(()=>import("./q-Djmf1OAT.js"),[])]],["sign-in/",[t,()=>_(()=>import("./q-B7agL4xR.js"),[])]]],e=[];const i=!0;export{i as c,e as m,r};

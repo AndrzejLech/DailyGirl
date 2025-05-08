@@ -1,0 +1,1 @@
+import{u as c}from"./q-CWKV0IAH.js";import{d}from"./q-CWKV0IAH.js";const f=async(n,t)=>{const[r]=c(),e=new FormData(t),a=new URLSearchParams;e.forEach((o,s)=>{typeof o=="string"&&a.append(s,o)}),await r("?"+a.toString(),{type:"form",forceReload:!0})};export{d as _hW,f as s_zpHcJzYZ88E};

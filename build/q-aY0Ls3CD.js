@@ -1,0 +1,1 @@
+import{u as o}from"./q-CWKV0IAH.js";import{d as i}from"./q-CWKV0IAH.js";const u=e=>{const[a,l]=o();l.value=l.value.filter((r,s)=>s!==e),a.value=a.value.splice(e,1)};export{i as _hW,u as s_J7jrFZ8vGF8};

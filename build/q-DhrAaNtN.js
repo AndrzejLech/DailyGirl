@@ -1,0 +1,1 @@
+import{u as s}from"./q-CWKV0IAH.js";import{d as f}from"./q-CWKV0IAH.js";import{o as a,a as t}from"./q-7UmtB5-w.js";const i=()=>{const[o]=s();a(t,e=>{e!=null?o("/feed"):o("/sign-in")})};export{f as _hW,i as s_hs55Cc65pvA};

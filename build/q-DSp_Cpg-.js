@@ -1,0 +1,1 @@
+import{u as t}from"./q-CWKV0IAH.js";import{d as p}from"./q-CWKV0IAH.js";const f=r=>{const[s,o]=t(),e=r.dataTransfer;if(!e)return;o.value=!1;const a=Array.from(e.files);s(a)};export{p as _hW,f as s_q4iVDfFF0Yw};

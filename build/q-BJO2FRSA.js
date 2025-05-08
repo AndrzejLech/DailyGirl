@@ -1,0 +1,1 @@
+import{u as o}from"./q-CWKV0IAH.js";import{d as f}from"./q-CWKV0IAH.js";import{s as e}from"./q-A1dA0LpM.js";import"./q-DOzDbG2F.js";import"./q-7UmtB5-w.js";import"./q-BAtX3LYQ.js";const c=()=>{const[m]=o();m.image.comments.splice(m.image.comments.indexOf(m.comment),1),e(m.image)};export{f as _hW,c as s_E97w0Y0Rb1s};
