@@ -1,1 +1,0 @@
-import{u}from"./q-BiLOa0Xc.js";import{f as i}from"./q-BiLOa0Xc.js";const o=a=>{const[t]=u(),e=a.target;parseInt(e.value)>366&&(e.value="366"),e.value.length>3&&(e.value=e.value.slice(0,3)),t.value=Number(e.value)};export{i as _hW,o as s_zqAFkx9ti4A};

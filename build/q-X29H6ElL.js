@@ -1,1 +1,0 @@
-import{u as a}from"./q-BiLOa0Xc.js";import{f as p}from"./q-BiLOa0Xc.js";const t=()=>{var o;const[e]=a();e.targetImage.value=e.image,(o=e.deleteDialogRef.value)==null||o.showModal()};export{p as _hW,t as s_DNfyokPgED0};

@@ -1,1 +1,0 @@
-import{f as d}from"./q-BiLOa0Xc.js";const n=()=>{const e=r=>r.preventDefault();return window.addEventListener("dragover",e),window.addEventListener("drop",e),()=>{window.removeEventListener("dragover",e),window.removeEventListener("drop",e)}};export{d as _hW,n as s_kLqug1xIw8E};
