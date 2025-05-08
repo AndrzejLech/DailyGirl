@@ -1,1 +1,0 @@
-import{u as a}from"./q-BiLOa0Xc.js";import{f as c}from"./q-BiLOa0Xc.js";const r=()=>{var o;const[e]=a();e.targetImage.value=e.image,(o=e.sendDialogRef.value)==null||o.showModal()};export{c as _hW,r as s_nGdb1DdkfcQ};
