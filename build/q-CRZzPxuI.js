@@ -1,1 +1,0 @@
-import{_ as t}from"./q-fJ1AjHlr.js";import{c as o,q as e}from"./q-BiLOa0Xc.js";const a=o(e(()=>t(()=>import("./q-CS7Z6J1O.js"),[]),"s_wSxU06oSqG8")),n={title:"Daily Girl",meta:[{name:"description",content:""}]};export{a as default,n as head};

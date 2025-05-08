@@ -1,1 +1,0 @@
-import{u as t}from"./q-BiLOa0Xc.js";import{f as p}from"./q-BiLOa0Xc.js";const i=r=>{const[s,o]=t(),e=r.dataTransfer;if(!e)return;o.value=!1;const a=Array.from(e.files);s(a)};export{p as _hW,i as s_q4iVDfFF0Yw};

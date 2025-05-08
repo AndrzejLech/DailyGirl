@@ -1,1 +1,0 @@
-import{u as l,n as f}from"./q-BiLOa0Xc.js";import{f as t}from"./q-BiLOa0Xc.js";const r=()=>{var e;const[o,a,s]=l();a.value=[],o.value=f([]),(e=s.dialogRef.value)==null||e.close()};export{t as _hW,r as s_IyNSSf30Xc4};
