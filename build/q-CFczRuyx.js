@@ -1,0 +1,1 @@
+import{_ as t}from"./q-fJ1AjHlr.js";import{c as o,q as e}from"./q-BiLOa0Xc.js";const i=o(e(()=>t(()=>import("./q-DcjallGO.js"),[]),"s_cgDotOqzNLs")),n={title:"Manager - Daily Girl",meta:[{name:"description",content:""}]};export{i as default,n as head};

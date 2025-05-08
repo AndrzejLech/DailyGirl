@@ -1,0 +1,1 @@
+import{_ as r}from"./q-fJ1AjHlr.js";import{D as a,a as i,b as l,F as o,q as _}from"./q-BiLOa0Xc.js";import{w as e}from"./q-DkAC-ydt.js";const p=()=>{const s=e();return a(_(()=>r(()=>import("./q-CDZAj5NC.js"),[]),"s_hs55Cc65pvA",[s])),i(o,{children:l("div",null,{class:"loading-spinner"},null,3,null)},3,"i8_0")};export{p as s_B0lqk5IDDy4};
