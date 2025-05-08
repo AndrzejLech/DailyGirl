@@ -1,0 +1,1 @@
+import{u as o}from"./q-BiLOa0Xc.js";import{f as i}from"./q-BiLOa0Xc.js";const f=e=>{const[a,l]=o();l.value=l.value.filter((r,s)=>s!==e),a.value=a.value.splice(e,1)};export{i as _hW,f as s_J7jrFZ8vGF8};
