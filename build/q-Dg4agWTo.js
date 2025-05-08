@@ -1,0 +1,1 @@
+import{f as n}from"./q-BiLOa0Xc.js";const a=o=>{if(o===0)return"0 Bytes";const t=1024,s=2,B=["Bytes","KB","MB","GB","TB","PB","EB","ZB","YB"],r=Math.floor(Math.log(o)/Math.log(t));return parseFloat((o/Math.pow(t,r)).toFixed(s))+" "+B[r]};export{n as _hW,a as s_6VxrWHih9i0};
