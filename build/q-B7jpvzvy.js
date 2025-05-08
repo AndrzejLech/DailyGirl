@@ -1,0 +1,1 @@
+import{u as t}from"./q-BiLOa0Xc.js";import{f as n}from"./q-BiLOa0Xc.js";const c=e=>{const[o,m,s,i]=t();console.log(e.key),e.key=="Enter"&&o(),e.key=="Escape"&&(m.value=i.comment.message,s.value=!1)};export{n as _hW,c as s_2ImKwE7um1I};
